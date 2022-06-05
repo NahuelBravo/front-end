@@ -1,1 +1,12 @@
-/* You can add global styles to this file, and also import other style files */
+:root{
+    --Background-primary:#8f3b76;
+    --Background-secondary:#2f1e3f ;
+}
+
+body{
+    box-sizing: content-box;
+    margin: 0;
+    padding: 0;
+    height: auto;
+    width: auto;
+}

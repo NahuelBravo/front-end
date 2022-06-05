@@ -1,0 +1,21 @@
+.sidebar{
+    height: 100rem;
+}
+
+.img{
+    width: 6em;
+}
+.btn{
+    width: auto;
+}
+
+a{
+    margin-top: 0.5em;
+    margin-bottom: 0.5em;
+}
+
+.login,
+.socialmedia,
+.router{
+    margin-top: 1.2em;
+}
